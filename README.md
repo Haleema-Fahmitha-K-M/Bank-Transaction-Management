@@ -30,7 +30,7 @@ The **Banking System** is a web-based application that provides secure and effic
 ✔️ View **account details** 📋  
 ✔️ View **transaction history (statements)** 📜  
 ✔️ Make **payments** 💰  
-📌 **Login Page URL:** [`/user_login`](#)  
+📌 **Login Page URL:** `/user_login`  
 
 ---
 
@@ -48,7 +48,7 @@ The **Banking System** is a web-based application that provides secure and effic
 
 | Login Page | Dashboard | Transactions |
 |------------|------------|------------|
-| ![Login](https://source.unsplash.com/300x200/?login,security) | ![Dashboard](https://source.unsplash.com/300x200/?dashboard,finance) | ![Transactions](https://source.unsplash.com/300x200/?banking,transactions) |
+| ![Login](https://github.com/Haleema-Fahmitha-K-M/Bank-Transaction-Management/blob/main/output%20images/admin%20outputs/admin_1.png) | ![Dashboard](https://github.com/Haleema-Fahmitha-K-M/Bank-Transaction-Management/blob/main/output%20images/user%20outputs/user_2.png) | ![Transactions](https://github.com/Haleema-Fahmitha-K-M/Bank-Transaction-Management/blob/main/output%20images/user%20outputs/user_4.png) |
 
 ---
 
