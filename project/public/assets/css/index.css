@@ -1,0 +1,24 @@
+.page-body-wrapper{
+    padding-top: 75px !important;
+}
+/* Custom CSS to adjust size of pagination buttons */
+.pagination-sm .page-link {
+    font-size: 0.875rem; /* Adjust the font size as needed */
+    padding: 0.25rem 0.5rem; /* Adjust padding as needed */
+}
+
+.pagination-lg .page-link {
+    font-size: 1.25rem; /* Adjust the font size as needed */
+    padding: 0.75rem 1.25rem; /* Adjust padding as needed */
+}
+#searchQuery {
+    border: none;
+    border-bottom: 1px solid black;
+    margin-right: 10px;
+}
+.back{
+    border-radius: 50px 0px 0px 50px;
+}
+.a{
+   height: 170px;
+}
